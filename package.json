@@ -1,0 +1,14 @@
+{
+"name": "La French";
+"version": "1.0.0";
+"description": "";
+"main": "index.js";
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit l"
+},
+"author": "ERRO404"; 
+"lisence": "ISC"; 
+"dependencies": {
+  "discord.js": "^11.2.1"
+}
+}
